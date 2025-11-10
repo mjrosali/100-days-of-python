@@ -64,3 +64,6 @@ pytest.xml
 *.tmp
 *.bak
 *~
+
+# text files
+*.txt
